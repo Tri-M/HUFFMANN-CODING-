@@ -203,7 +203,7 @@ int main()
 
     for(auto i:s)
     res+=vtr[i];
-    cout<<"***"<<endl;
+    cout<<"*****"<<endl;
     cout<<s<<endl;
     cout<<res<<endl;
 
